@@ -1,5 +1,5 @@
 # VueJS-presentation
-A presentation about VueJS and frontend development
+A presentation about VueJS and frontend development: https://sandoche.github.io/VueJS-presentation/index.html#1
 
 ## Example of code with Vuex
 * Simple todo - https://github.com/sandoche/VueJS-simple-todo-vuex-example
